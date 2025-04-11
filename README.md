@@ -1,8 +1,8 @@
 ## Hi there 👋
+![1744413488214](https://github.com/user-attachments/assets/4d30d682-4c11-4abf-be87-43e8b7886c23)
 
 <!--
 **luandsonm/luandsonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![1744413488214](https://github.com/user-attachments/assets/4d30d682-4c11-4abf-be87-43e8b7886c23)
 
 Here are some ideas to get you started:
 
