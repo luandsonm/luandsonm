@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, mundo! 👋
 ![1744413488214](https://github.com/user-attachments/assets/4d30d682-4c11-4abf-be87-43e8b7886c23)
 
 <!--
